@@ -251,8 +251,8 @@ export default function HomePage() {
                     </div>
                   </div>
                   <CardDescription>
-                    We're expanding to more universities. Contact us to bring
-                    CampusLink to your campus.
+                    We&apos;re expanding to more universities. Contact us to
+                    bring CampusLink to your campus.
                   </CardDescription>
                 </CardHeader>
               </Card>
@@ -338,8 +338,8 @@ export default function HomePage() {
               <CardHeader>
                 <CardTitle className="text-white">Get Started</CardTitle>
                 <CardDescription className="text-gray-300">
-                  Interested in CampusLink? Send us a message and we'll get back
-                  to you.
+                  Interested in CampusLink? Send us a message and we&apos;ll get
+                  back to you.
                 </CardDescription>
               </CardHeader>
               <CardContent>
